@@ -23,5 +23,3 @@ ellipse(150, 150, 100, 100);
 fill(203, 245, 191);
 ellipse(150, 150, 75, 75);
 
-//save function
-save("IVOR.Eyeball.Drawing.png");
